@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'Spin Cycle';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Spin Cycle'), url('Spin Cycle.ttf') format('truetype');
+}
+
+.app {
+    text-align: center;
+}
+
+h1 {
+    display: inline-block;
+    font-family: 'Spin Cycle', 'Roboto', 'Helvetica Neue', sans-serif;
+    font-size: 4em;
+    background: linear-gradient(to right, #216efd 0%, #c739ff 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    /* color: linear-gradient(90deg, #21a5fd 0%, #c739ff 100%); */
+    margin-top: 20px;
+    margin-bottom: 0px;
+}

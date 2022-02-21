@@ -1,0 +1,11 @@
+input {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+    color: rgb(0, 0, 83);
+    background-color: rgb(251, 245, 255);
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1.2em;
+    border: 0;
+}

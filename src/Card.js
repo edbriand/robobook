@@ -2,11 +2,11 @@ import React from 'react';
 import 'animate.css';
 import './Card.css';
 
-const Card = ({id, name, email}) => {
+const Card = ({id, name, email, hash, color}) => {
     return (
-        <div class="card animate__animated">
-            <img src={`https://robohash.org/${id}?200x200`} alt="Robot" />
-            <div>
+        <div className="card animate__animated" style={{backgroundColor: color}}>
+            <img src={`https://robohash.org/${hash}?size=200x200`} alt="Robot" />
+            <div className="cardtext">
                 <h2>{name}</h2>
                 <p>{email}</p>
             </div>
