@@ -12,5 +12,8 @@ input {
 
 input:hover, input:focus {
     background-color: white;
+}
+
+input:focus {
     outline: 0.2em solid rgb(120, 82, 254, 0.5);
 }
