@@ -9,3 +9,8 @@ input {
     font-size: 1.2em;
     border: 0;
 }
+
+input:hover, input:focus {
+    background-color: white;
+    outline: 0.2em solid rgb(120, 82, 254, 0.5);
+}
