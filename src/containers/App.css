@@ -20,6 +20,7 @@ h1 {
     font-family: 'Spin Cycle', 'Roboto', 'Helvetica Neue', sans-serif;
     font-size: 4em;
     background: linear-gradient(to right, #216efd 0%, #c739ff 100%);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: cover;
@@ -39,6 +40,7 @@ h1 {
     font-family: 'Roboto';
     font-size: 3em;
     background: linear-gradient(to right, #216efd, #c739ff, #216efd);
+    background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-size: 400% 400%;

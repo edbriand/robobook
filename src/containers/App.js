@@ -28,9 +28,7 @@ class App extends React.Component {
                             ${randomColorChan(90,128)},
                             ${randomColorChan(220,255)})`;
                     }
-
                     this.setState({robots: users});
-                    console.log(users);
                 });  
     }
 
