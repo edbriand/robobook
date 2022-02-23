@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/robobook/static/css/main.1a491bf7.css",
+    "main.css": "/robobook/static/css/main.fa543ccf.css",
     "main.js": "/robobook/static/js/main.c9f59fc9.js",
     "static/js/787.de3cf790.chunk.js": "/robobook/static/js/787.de3cf790.chunk.js",
     "static/media/Spin Cycle.ttf": "/robobook/static/media/Spin Cycle.85f8ba510da273422ae2.ttf",
     "index.html": "/robobook/index.html",
-    "main.1a491bf7.css.map": "/robobook/static/css/main.1a491bf7.css.map",
+    "main.fa543ccf.css.map": "/robobook/static/css/main.fa543ccf.css.map",
     "main.c9f59fc9.js.map": "/robobook/static/js/main.c9f59fc9.js.map",
     "787.de3cf790.chunk.js.map": "/robobook/static/js/787.de3cf790.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1a491bf7.css",
+    "static/css/main.fa543ccf.css",
     "static/js/main.c9f59fc9.js"
   ]
 }
