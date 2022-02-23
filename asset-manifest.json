@@ -1,20 +1,16 @@
 {
   "files": {
-    "main.css": "/robobook/static/css/main.6dd7a845.chunk.css",
-    "main.js": "/robobook/static/js/main.7d0a253f.chunk.js",
-    "main.js.map": "/robobook/static/js/main.7d0a253f.chunk.js.map",
-    "runtime~main.js": "/robobook/static/js/runtime~main.b1374191.js",
-    "runtime~main.js.map": "/robobook/static/js/runtime~main.b1374191.js.map",
-    "static/css/2.2ce0d9b2.chunk.css": "/robobook/static/css/2.2ce0d9b2.chunk.css",
-    "static/js/2.667337f4.chunk.js": "/robobook/static/js/2.667337f4.chunk.js",
-    "static/js/2.667337f4.chunk.js.map": "/robobook/static/js/2.667337f4.chunk.js.map",
-    "static/js/3.9881a070.chunk.js": "/robobook/static/js/3.9881a070.chunk.js",
-    "static/js/3.9881a070.chunk.js.map": "/robobook/static/js/3.9881a070.chunk.js.map",
+    "main.css": "/robobook/static/css/main.1a491bf7.css",
+    "main.js": "/robobook/static/js/main.c9f59fc9.js",
+    "static/js/787.de3cf790.chunk.js": "/robobook/static/js/787.de3cf790.chunk.js",
+    "static/media/Spin Cycle.ttf": "/robobook/static/media/Spin Cycle.85f8ba510da273422ae2.ttf",
     "index.html": "/robobook/index.html",
-    "precache-manifest.2c3b68fc9405afd9f2c43aec9f675884.js": "/robobook/precache-manifest.2c3b68fc9405afd9f2c43aec9f675884.js",
-    "service-worker.js": "/robobook/service-worker.js",
-    "static/css/2.2ce0d9b2.chunk.css.map": "/robobook/static/css/2.2ce0d9b2.chunk.css.map",
-    "static/css/main.6dd7a845.chunk.css.map": "/robobook/static/css/main.6dd7a845.chunk.css.map",
-    "static/media/App.css": "/robobook/static/media/Spin Cycle.f073a2b3.ttf"
-  }
+    "main.1a491bf7.css.map": "/robobook/static/css/main.1a491bf7.css.map",
+    "main.c9f59fc9.js.map": "/robobook/static/js/main.c9f59fc9.js.map",
+    "787.de3cf790.chunk.js.map": "/robobook/static/js/787.de3cf790.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a491bf7.css",
+    "static/js/main.c9f59fc9.js"
+  ]
 }
